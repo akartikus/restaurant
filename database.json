@@ -1,0 +1,37 @@
+{
+    "users": {
+        "Admin": "$2a$08$miOuwRlzdcxYGYPGCps/tOewehGADfXXwR5HhjFBLZ2l.yeod8WAK",
+        "Foo": "$2a$08$0DAbdiSI4CLZaTcKngHb0eTypk0vJm4xz9j9XQXiX7/pqwsFS4QlC",
+        "Lenovo": "$2a$08$oCnsbQKCbj0m6W2oZa2VBusF4tNQwAntHJ/o5So5x1kFIS1FcyNEe"
+    },
+    "plan": {
+        "Billy,17h,3,22 Décembre 2016": "Table3",
+        "Peter,10h,1,22 Décembre 2016": "Table1",
+        "Brian,13h,1,22 Décembre 2016": "Table1",
+        "Meg,10h,1,22 Décembre 2016": "Table1",
+        "Brian,13h,2,22 Décembre 2016": "Table2",
+        "Peter,17h,4,22 Décembre 2016": "Table4",
+        "Brian,17h,4,22 Décembre 2016": "Table4",
+        "Peter,10h,1,31 Décembre 2016": "Table1",
+        "Brian,10h,1,31 Décembre 2016": "Table1",
+        "Lois,13h,1,31 Décembre 2016": "Table1",
+        "Steewy,17h,1,31 Décembre 2016": "Table1",
+        "Meg,10h,2,31 Décembre 2016": "Table2",
+        "Chris,11h,2,31 Décembre 2016": "Table2",
+        "Glen,13h,2,31 Décembre 2016": "Table2",
+        "Adam,17h,2,31 Décembre 2016": "Table2",
+        "Adam,13h,3,31 Décembre 2016": "Table3",
+        "Cleevland,13h,3,31 Décembre 2016": "Table3",
+        "Adam,13h,2,22 Décembre 2016": "Table2",
+        "Glen,13h,2,22 Décembre 2016": "Table2",
+        "Bonie,11h,3,22 Décembre 2016": "Table3",
+        "Chris,13h,4,22 Décembre 2016": "Table4",
+        "Steewy,17h,3,22 Décembre 2016": "Table3",
+        "Adam,13h,4,22 Décembre 2016": "Table4",
+        "Meg,17h,2,22 Décembre 2016": "Table2",
+        "Lois,13h,3,22 Décembre 2016": "Table3",
+        "Chris,13h,1,22 Décembre 2016": "Table1",
+        "Peter,10h,2,22 Décembre 2016": "Table2",
+        "Brian,10h,1,23 Décembre 2016": "Table1"
+    }
+}

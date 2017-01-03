@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Reseration restaurant</title>
+        <meta charset="utf-8">
+         <!-- Bootstrap -->
+        <link href = "//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel = "stylesheet">
+        <title>Réservation restaurant/title>
+         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>      
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src = "//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+        <link href="/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+        <meta charset="utf-8">
+        <meta charset="utf-8">
+        <title>node-sample &ndash; Login</title>
+        <style>
+            input.error {
+                border-color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="jumbotron text-center">            
+            <h1>Gestion de réservations sur un plan de salle d’un restaurant</h1>
+            <p>AMU - M2P SIR (2016/2017) - Sitraka RAZAFIMAMY</p> 
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">Authentification</div>
+            <div class="panel-body">  
+                <form action="/login" method="post">
+                    <input type="text" class="<%= error %> form-control" name="username" placeholder="Nom d'utilisateur" required autofocus value="Admin">
+                    <input type="password" class="<%= error %> form-control" name="password" placeholder="Mot de passe" required value="pass">
+                    <input type="submit" class="btn btn-primary" value="Se connecter">
+                </form>
+            </div>
+        </div>
+        <script type="text/javascript" src="/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+        <script type="text/javascript" src="/js/locales/bootstrap-datetimepicker.fr.js" charset="UTF-8"></script>
+    </body>
+</html>
